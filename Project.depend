@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672434736 source:c:\users\al-gawad\desktop\project\project\project\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<ctype.h>
+
